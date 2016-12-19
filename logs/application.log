@@ -1,0 +1,6 @@
+2016-12-19 17:27:14,046 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2016-12-19 17:27:14,516 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:h2:file:./data/productsDB
+2016-12-19 17:27:15,884 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-12-19T17:27:15.882Z
+2016-12-19 17:27:16,816 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-12-19 22:20:55,849 [INFO] from application in pool-4-thread-1 - ApplicationTimer demo: Stopping application at 2016-12-19T22:20:55.849Z after 17620s.
+2016-12-19 22:20:55,856 [INFO] from application in pool-4-thread-1 - Shutting down connection pool.
